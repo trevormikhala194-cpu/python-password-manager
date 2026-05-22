@@ -1,4 +1,5 @@
 secret.key
 passwords.json
+password.json
 __pycache__/
 *.pyc
